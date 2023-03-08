@@ -33,11 +33,14 @@
         python scripts/download_models.sh
 
         uvicorn manage:app --host 0.0.0.0 --port 8000
+
     ```
     OR
     ```bash
         bash scripts/run.sh
     ```
+
+    Import the API collection into insomnia, and Test it 🚀
 
 ### Docker Support 🐳
 
