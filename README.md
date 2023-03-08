@@ -73,5 +73,6 @@
     }
     ```
 
-**Notes:** If results include drinking or eating, then the person in the video is probably taking a drug
+**Notes:** If results include drinking or eating, then the person in the video is probably taking a drug.
+
 **WARNING:** The model is crappy and not accurate
